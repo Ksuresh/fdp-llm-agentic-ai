@@ -70,6 +70,7 @@ matplotlib>=3.8.0
 tqdm>=4.66.0
 rich>=13.0.0               # Pretty terminal output
 gradio>=4.0.0              # Quick UI for demos
+scikit-learn>=1.5.0
 
 # ── Deployment (Day 4) ──────────────────────────────────────
 fastapi>=0.111.0
